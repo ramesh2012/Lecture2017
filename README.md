@@ -4,7 +4,7 @@
 ## doing
 
 ### Ruby2017
-https://github.com/y-matsumoto/Lecture/tree/master/lecture/Ruby
+https://github.com/y-matsumoto/Lecture2017/blob/master/lecture/Ruby/README.md
 
 ## license
 - ドキュメント内容: [CC-BY](http://creativecommons.org/licenses/by/4.0/)

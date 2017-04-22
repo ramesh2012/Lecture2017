@@ -1,16 +1,16 @@
 # Lecture
 講義関連のreadmeを配置
 
-- 松本アカウント
+- 松本アカウント  
 https://github.com/y-matsumoto
 
-- 授業資料
+- 授業資料  
 https://github.com/y-matsumoto/Lecture2017
 
-- 授業用チーム
+- 授業用チーム  
 https://github.com/Tech-C2017
 
-- Ruby課題提出先
+- Ruby課題提出先  
 https://github.com/Tech-C2017/RubyStudy
 
 ## doing

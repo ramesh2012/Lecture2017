@@ -9,9 +9,10 @@ https://github.com/Tech-C2017/RubyStudy
 ## レクチャーノート(前期)
 
 ### 20170415
-https://github.com/y-matsumoto/Lecture/blob/master/lecture/Ruby/20170415.md
+https://github.com/y-matsumoto/Lecture2017/blob/master/lecture/Ruby/20170415.md
 
 ### 20170422
+https://github.com/y-matsumoto/Lecture2017/blob/master/lecture/Ruby/20170422.md
 
 ### 20170513
 

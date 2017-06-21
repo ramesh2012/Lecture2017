@@ -29,7 +29,8 @@ https://github.com/y-matsumoto/Lecture2017/blob/master/lecture/Ruby/20170603.md
 ### 20170617
 https://github.com/y-matsumoto/Lecture2017/blob/master/lecture/Ruby/20170617.md
 
-### 20170623
+### 20170624
+https://github.com/y-matsumoto/Lecture2017/blob/master/lecture/Ruby/20170624.md
 
 ### 20170701
 
